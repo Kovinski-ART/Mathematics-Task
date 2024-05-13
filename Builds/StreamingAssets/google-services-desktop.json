@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693258652755",
+    "project_id": "nuts-and-bolts-sort",
+    "storage_bucket": "nuts-and-bolts-sort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693258652755:android:ce1e7d8b91049b72c54aa6",
+        "android_client_info": {
+          "package_name": "com.game.paint.sort.screw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrW95mdvn6cJmPfvtf98op6h_fL8-JFN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
